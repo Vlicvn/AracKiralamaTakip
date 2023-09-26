@@ -13,6 +13,4 @@ Projeyi klonlayın ve gerekli bağımlılıkları yükleyin:
 
 ```bash
 git clone https://github.com/Vlicvn/AracKiralamaTakip.git
-cd AracKiralamaTakip
-npm install
 ```
